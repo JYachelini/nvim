@@ -1,1 +1,2 @@
-require("yache")
+require("config")
+
